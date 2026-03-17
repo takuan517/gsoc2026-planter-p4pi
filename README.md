@@ -277,13 +277,3 @@ matplotlib==3.3.2 # Released 2020
     ├── matrix2_table.png     ← Matrix 2: P4 table logic simulation
     └── matrix3_bmv2.png      ← Matrix 3: BMv2 switch deployment
 ```
-
-> The proposal is shared directly with the mentor and is not included in this repository.
-
----
-
-## Contact
-
-- Email: takuan@sfc.wide.ad.jp
-- GitHub: [@takuan517](https://github.com/takuan517)
-- Affiliation: Ph.D. Student, Graduate School of Media and Governance, Keio University (Cyber Informatics Course)

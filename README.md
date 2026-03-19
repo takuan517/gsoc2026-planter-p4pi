@@ -246,7 +246,7 @@ t_t = [test_X[[i]].max().iloc[0], train_X[[i]].max().iloc[0]]
 
 Applied to all **51 `table_generator.py` files** across every ML module: `RF`, `DT`, `XGB`, `SVM`, `KNN`, `KM`, `NN`, `Bayes`, `IF`, `PCA`, `Autoencoder`
 
-🔗 **PR #7:** https://github.com/In-Network-Machine-Learning/Planter/pull/7
+**PR #7:** https://github.com/In-Network-Machine-Learning/Planter/pull/7
 
 ---
 
@@ -263,7 +263,7 @@ xgboost==0.90     # Released 2019
 matplotlib==3.3.2 # Released 2020
 ```
 
-🔗 **Issue #8:** https://github.com/In-Network-Machine-Learning/Planter/issues/8
+**Issue #8:** https://github.com/In-Network-Machine-Learning/Planter/issues/8
 
 ---
 
@@ -272,8 +272,17 @@ matplotlib==3.3.2 # Released 2020
 ```
 .
 ├── README.md
+├── proposal/
+│   └── gsoc2026_proposal_takumi_v7.pdf
 └── screenshots/
     ├── matrix1_sklearn.png   ← Matrix 1: sklearn accuracy
     ├── matrix2_table.png     ← Matrix 2: P4 table logic simulation
     └── matrix3_bmv2.png      ← Matrix 3: BMv2 switch deployment
 ```
+
+---
+
+## Contact
+
+- Email: takuan@sfc.wide.ad.jp
+- GitHub: [@takuan517](https://github.com/takuan517)

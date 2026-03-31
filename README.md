@@ -273,7 +273,7 @@ matplotlib==3.3.2 # Released 2020
 .
 ├── README.md
 ├── proposal/
-│   └── gsoc2026_proposal_takumi_v7.pdf
+│   └── gsoc2026_proposal_takumi.pdf
 └── screenshots/
     ├── matrix1_sklearn.png   ← Matrix 1: sklearn accuracy
     ├── matrix2_table.png     ← Matrix 2: P4 table logic simulation
